@@ -1,4 +1,4 @@
-# 
+# Tool for comparing XML Attributes and Excel Lines
 ## Description
 This code is designed to compare all the attributes from an XML file with their corresponding lines in an Excel file. Additionally, certain attributes are expected to have constant values, which are specified in the `dictionary_t_r.py` file. The tool generates a CSV file that documents the comparison results and creates a PowerPoint presentation to present the findings.
 Furthermore, the `docx generator all files.py` file generates a Word document with detailed results of the analysis. This tool aims to automate the process of creating informative and visually appealing presentations by utilizing the data and analysis outputs.
