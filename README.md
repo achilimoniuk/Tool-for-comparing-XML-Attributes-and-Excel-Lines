@@ -12,26 +12,18 @@ This project comprises three key files:
 
 ## Requirements
 To run this tool, make sure you have the following packages installed:
-
-http.client
-json
-ssl
-requests
-pandas
-ast
-numpy
-tqdm
-time
-datetime
-inquirer
-csv
-matplotlib
-pptx
-dataframe_image
-seaborn
-statistics
-termcolor
-docx
+- lxml
+- pandas
+- time
+- progressbar
+- logging 
+- tqdm
+- datetime
+- matplotlib
+- pptx
+- dataframe_image
+- termcolor
+- docx
 
 ## Usage
 1. Prepare the Excel and XML files that you want to analyze. Ensure that the necessary data is available in both files.
