@@ -6,7 +6,7 @@ Furthermore, the `docx generator all files.py` file generates a Word document wi
 ## Files 
 This project comprises three key files:
 
-- `dictionary_t_r.py`: This file contains constant values that are assigned to specific attributes.
+- `dictionary_t_r.py`: This file contains constant values that should be assigned to specific attributes.
 - `final_check_t_r.py`: This file contains the main code responsible for comparing the attributes.
 - `docs_generator_all_files.py`: This tool generates a Word file with tables presenting the statistical analysis results.
 
